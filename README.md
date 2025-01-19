@@ -1,4 +1,11 @@
+
+
+
+
 # Fruit Ninja Enhanced
+
+
+![alt text](https://static.wixstatic.com/media/e58508_4dc070f3ec02433faf33e54bae1dc302~mv2.png)
 
 A motion-controlled Fruit Ninja clone using computer vision for hand tracking. Slice fruits with your hand movements in this enhanced version featuring improved tracking, visual feedback, and fullscreen support.
 
